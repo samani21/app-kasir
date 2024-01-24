@@ -1,0 +1,4 @@
+1. Semua class component, rubah menjadi functional component (selesai)
+2. Jadikan tampilan mobile friendly 
+3. Card menu dijadikan tingginya 
+4. Tambah keranjang tidak otomatis berubah, harusny otomatis berubah(selesai)
